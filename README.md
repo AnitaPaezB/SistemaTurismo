@@ -1,13 +1,13 @@
 # SistemaTurismo
 
 ## Autor del proyecto
-Nombre Completo: Anita Belén Páez Belmar
+**Nombre Completo:** Anita Belén Páez Belmar
 
-Sección: 001A
+**Sección:** 001A
 
-Carrera: Analista Computacional
+**Carrera:** Analista Computacional
 
-Sede: DuocUc online
+**Sede**: DuocUc online
 
 ## Descripción
 Este proyecto corresponde a una evaluación de la asignatura Desarrollo Orientado a Objetos. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar información de personas y guías turísticos de la agencia Llanquihue Tour.

@@ -2,8 +2,11 @@
 
 ## Autor del proyecto
 Nombre Completo: Anita Belén Páez Belmar
-Sección:
+
+Sección: 001A
+
 Carrera: Analista Computacional
+
 Sede: DuocUc online
 
 ## Descripción

@@ -1,7 +1,15 @@
 # SistemaTurismo
 
+## Autor del proyecto
+Nombre Completo: Anita Belén Páez Belmar
+Sección:
+Carrera: Analista Computacional
+Sede: DuocUc online
+
 ## Descripción
-Sistema desarrollado en Java para representar la información de personas y guías turísticos de la agencia Llanquihue Tour.
+Este proyecto corresponde a una evaluación de la asignatura Desarrollo Orientado a Objetos. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar información de personas y guías turísticos de la agencia Llanquihue Tour.
+
+El proyecto aplica principios de programación orientada a objetos como encapsulamiento, herencia, composición, constructores, getters/setters y el uso del método toString().
 
 ## Estructura del proyecto
 
@@ -21,10 +29,11 @@ Sistema desarrollado en Java para representar la información de personas y guí
 - Getters y Setters
 - Método toString()
 
-## Ejecución
-1. Abrir el proyecto en IntelliJ IDEA.
-2. Ejecutar la clase Main ubicada en el paquete app.
-3. Visualizar los resultados en la consola.
+## Intrucciones para ejecutar el proyecto
+1. Abrir el proyecto en IntelliJ IDEA
+2. Verificar que los paquetes estén correctamente configurados
+3. Ejecutar la clase Main dentro del paquete app
+4. Revisar la salida en consola
 
-## Autor
-Anita Páez
+## Fecha de entrga
+Lunes 08/06/2026
